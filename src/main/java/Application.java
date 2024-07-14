@@ -1,5 +1,3 @@
-package me.dio.Stander_dev_me_week_java;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
